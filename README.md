@@ -1,0 +1,1 @@
+Segundo tutorial de Android Básico sobre la clase Activity y cómo mandar datos entre Activities y cómo se comunican estas, acorde con el ciclo de vida de una Activity.
